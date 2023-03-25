@@ -8,9 +8,9 @@ global.zenz = 'akame-chan>_<'
 /*=======================================*/
 global.namabot = '𝑵𝒂𝒊𝒔𝒂-𝑴𝑫'
 global.namaowner = 'Dryan'
-global.owner = ['6289513081052','6283152457580']
-global.ownernomer = ['6289513081052','6283152457580']
-global.premium = ['6289513081052','6283152457580']
+global.owner = ['6288271138135','6283152457580']
+global.ownernomer = ['6288271138135','6283152457580']
+global.premium = ['6288271138135','6283152457580']
 /*=======================================*/
 global.saweria = ['-']
 global.sessionName = 'session'
@@ -22,7 +22,7 @@ global.region = 'Indonesia'
 global.github = 'https://github.com/AdrianTzy'
 global.mygc = 'https://chat.whatsapp.com/IbewxIjm5Lr6cIvkUPlXwq'
 global.mytt = 'https://tiktok.com/@dryanbot'
-global.packname = '𝑺𝒕𝒊𝒄𝒌𝒆𝒓 𝑩𝒚'
+global.packname = '𝑺𝒕𝒊𝒄𝒌𝒆𝒓 𝑩𝒚 hanz'
 global.author = '𝑵𝒂𝒊𝒔𝒂-𝑴𝑫\n𝑫𝒓𝒚𝒂𝒏-𝑴𝑫'
 /*=======================================*/
 global.jumlha = '999'
